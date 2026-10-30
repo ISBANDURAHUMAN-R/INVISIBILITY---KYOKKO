@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Large Binaries / Installers
+*.exe
+OBS-Studio-Installer.exe
+
+# PyInstaller
+# Keep kyokko.spec in version control, ignore output build folders
+*.manifest
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Database files
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+*.db
+*.sqlite3
+
+# Logs
+logs/*.log
+*.log
+!logs/.gitkeep
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.gemini/
+.agents/
