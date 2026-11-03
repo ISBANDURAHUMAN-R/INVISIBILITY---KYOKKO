@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="INVISIBILITY---KYOKKO Banner" width="100%">
+</p>
+
 # PROJECT KYOKKO ✦
 ### Gesture-Controlled Invisibility Virtual Camera for Windows
 
